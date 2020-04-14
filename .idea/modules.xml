@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lishang/lishang.iml" filepath="$PROJECT_DIR$/lishang/lishang.iml" />
+      <module fileurl="file://E:/RuoYi-Vue/ruoyi/ruoyi.iml" filepath="E:/RuoYi-Vue/ruoyi/ruoyi.iml" />
+    </modules>
+  </component>
+</project>
